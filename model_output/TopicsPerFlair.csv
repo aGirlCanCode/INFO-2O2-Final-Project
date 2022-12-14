@@ -1,0 +1,211 @@
+,Topic,Words,Frequency,Class,Self Labelled Topics
+0,15,"past proving, proving, proving time, into past, travel is",1,Misleading Title,Science Fiction
+1,9,"going right, ama going, vehicles happen, renault nissan, title ceo",1,reddit,Self Driving Cars
+2,-1,"stages leading, depicting, leading up, goes wrong, einstein access",6,image,Miscellaneous
+3,6,"food packaging, future food, packaging, food, future",1,image,Food
+4,10,"currency look, future currency, currency, look, future",1,image,Cryptocurrency
+5,11,"future, look, year, thought year, people thought",1,image,People
+6,12,"get aging, aging research, something people, people get, research",1,image,Life Science
+7,-1,"people, greed, humans, technology, world",60,unknown,Miscellaneous
+8,0,"so obvious, everyone listen, happens artificial, troubled, troubled people",3,unknown,AI
+9,1,"fi movie, technology, movie, sci, sci fi",6,unknown,Technology
+10,2,"cities, world, economic, output, countries",3,unknown,Society
+11,3,"robot, jobs, robots, anarcho capitalisms, new robot",5,unknown,"Robots, Jobs and Automation"
+12,4,"climate, human, increasingly, computers, personality",3,unknown,Climate Change
+13,6,"top chef, veganism, add water, necessary change, just add",2,unknown,Food
+14,7,"musk, elon musk, elon, spacex, is",10,unknown,Elon and Trump
+15,8,"eugenicist, eugenicist eliminating, nikola tesla, nikola, eliminating undesirables",1,unknown,Renewable Energy
+16,9,"driving, become antisocial, ethics self, city become, antisocial",2,unknown,Self Driving Cars
+17,11,"just, reaped karma, karma pic, realized never, never reaped",7,unknown,People
+18,12,"aging, diagnosing cancer, faster times, opponents, universe mean",3,unknown,Life Science
+19,13,"thought, think, way, human, life",2,unknown,Science Fiction
+20,14,"major breakthrough, breakthrough nuclear, fusion technology, technology am, am breaking",1,unknown,Nuclear Energy
+21,15,"computers, thoughts years, thoughtcrime computers, thoughtcrime, ajax prism",3,unknown,Science Fiction
+22,16,"woman, dealership, empower women, cyborg girl, woman prove",4,unknown,Gender
+23,17,"railgun, craft firearms, humiliating us, firearms, never craft",3,unknown,World Politics and Guns
+24,18,"earth existed, calculate life, calculate, began earth, use moore",1,unknown,Aliens
+25,19,"pro, income ubi, vyrdism pro, opinion pro, vyrdism",1,unknown,Income
+26,20,"pandemic, coronavirus, dennis, philosophy psychedelic, psychedelic",2,unknown,Covid Research
+27,21,"al gore, gore, gore civilization, survive next, civilization survive",1,unknown,Life Science
+28,22,"kill capitalism, humans must, mars from, save mars, from humans",1,unknown,Space Travel
+29,4,"year, faster, occured, spent earth, budget",1,other,Climate Change
+30,15,"truer, indicator time, time calendar, calendar shows, calendar",1,other,Science Fiction
+31,17,"printed guns, guns, printed, sheriff do, australia prevent",2,3DPrint,World Politics and Guns
+32,-1,"years, civilizations, galaxy, westby, space",16,Space,Miscellaneous
+33,1,"engineers are, real space, creating real, space elevator, are creating",1,Space,Technology
+34,2,"western, scientific, technological advancement, fermi, fermi paradox",1,Space,Society
+35,7,"elon musk, musk, elon, spacex, spacex starship",6,Space,Elon and Trump
+36,11,"good reason, reason believe, reason, believe, good",1,Space,People
+37,13,"life, stars, universe, idea, form",1,Space,Science Fiction
+38,16,"mars mission, sexist feminist, spacex mars, mission is, is sexist",1,Space,Gender
+39,17,"major space, now major, space power, is now, china is",1,Space,World Politics and Guns
+40,18,"aliens, scientists, ufos, laser, laser communication",8,Space,Aliens
+41,21,"destroys, alien waits, species alien, enough destroys, everything none",1,Space,Life Science
+42,22,"mars, scientists, suicide mission, not colonizing, major problem",3,Space,Space Travel
+43,-1,"colleges collapse, colleges, collapse, people, years",1, article [sensationalist],Miscellaneous
+44,-1,"ai, cars, traffic, rules, will",9,AI,Miscellaneous
+45,0,"artificial intelligence, artificial, ai, intelligence, algorithms",29,AI,AI
+46,1,"assistant, assist first, dead relatives, intelligence gaming, speak dead",3,AI,Technology
+47,3,"jobs create, ai take, new ones, create new, take jobs",1,AI,"Robots, Jobs and Automation"
+48,5,"not ok, is not, opinion is, ok, opinion",1,AI,Reddit
+49,7,"musk, elon musk, elon, security, musk openai",4,AI,Elon and Trump
+50,13,"ray, time, thoughts, app, one",2,AI,Science Fiction
+51,16,"women shows, genderless, genderless ai, harm vulnerable, deepfakes harm",2,AI,Gender
+52,19,"basic, universal, basic income, income, universal basic",1,AI,Income
+53,-1,"land take, mission planned, new military, take runways, space plane",1,article - misleading title,Miscellaneous
+54,0,"human limitations, unlock human, google ai, future unlock, ai outperforming",1,article - misleading title,AI
+55,17,"halo, made gun, gun halo, canadian army, army actually",1,article - misleading title,World Politics and Guns
+56,-1,"people, twitter, accounts, month, future",38,Society,Miscellaneous
+57,0,"ai, be, future, be end, techno racism",6,Society,AI
+58,1,"silicon valley, silicon, valley, coming, progress",5,Society,Technology
+59,2,"people, world, tech, civilization, poor",8,Society,Society
+60,3,"robots, automation, are, jobs, killer",4,Society,"Robots, Jobs and Automation"
+61,4,"climate, earth into, climate getting, bothered climate, policies could",2,Society,Climate Change
+62,5,"black, nuanced black, consistently thought, provoking, subscribe explores",2,Society,Reddit
+63,6,"meat, dairy, obsolete, vegan, animal",7,Society,Food
+64,7,"elon musk, elon, musk, journalism, kara swisher",2,Society,Elon and Trump
+65,8,"powered cars, forget evs, are here, evs solar, cars are",1,Society,Renewable Energy
+66,10,"impact technology, make supply, work industry, income forward, yang importance",2,Society,Cryptocurrency
+67,11,"feel, possiblity welcome, likely going, happen future, america see",3,Society,People
+68,12,"longevity close, lifespan saturation, men who, engineering extend, limit genetic",2,Society,Life Science
+69,16,"sex, sex robots, woman, robots, crunch",5,Society,Gender
+70,17,"caspian, naval supremacy, aims naval, china aims, supremacy",1,Society,World Politics and Guns
+71,18,"seriously, take ufos, seriously vox, ufos seriously, seriously seriously",1,Society,Aliens
+72,20,"coronavirus, years death, prophet pandemic, work us, does foresee",3,Society,Covid Research
+73,21,"collapse, realistic scenario, predicted collapse, civilizations road, collapse debrief",4,Society,Life Science
+74,2,"people, robots, ubi, elysium, fuck",1,text (elysium spoilers),Society
+75,6,"cost lab, grown burger, burger patty, drops, patty",1,article - sensationalism,Food
+76,15,"years now, visions world, visions, world years, now",1,Slides,Science Fiction
+77,-1,"people, think, take, human, francis",40,text,Miscellaneous
+78,0,"ai, intelligence, analytical, artificial intelligence, human",3,text,AI
+79,1,"iphone, google, reality, apple, becoming",6,text,Technology
+80,2,"world, people, human, one, never",24,text,Society
+81,3,"robots, hear, basic income, jobs, basic",1,text,"Robots, Jobs and Automation"
+82,5,"reddit, sub, future, community, posts",12,text,Reddit
+83,9,"driving, self driving, self, cars, traffic",2,text,Self Driving Cars
+84,11,"take years, onward, so think, decades unfold, unfold",3,text,People
+85,12,"aging, genes, michio kaku, unravel, michio",2,text,Life Science
+86,13,"time, travel, dimension, one, time travel",6,text,Science Fiction
+87,14,"nuclear, radioactive, safe, nuclear power, power",1,text,Nuclear Energy
+88,15,"neptune, learn brain, neptune instantly, sun takes, instantly sometime",2,text,Science Fiction
+89,19,"lease, income, basic income, basic, income basic",1,text,Income
+90,-1,"crack, threaten tesla, burn resources, humans utterly, yet threaten",4,Energy,Miscellaneous
+91,1,"cables, huge cables, got partners, commercialisation is, think cables",2,Energy,Technology
+92,4,"climate, goals economic, denial, even gold, meet paris",2,Energy,Climate Change
+93,8,"wind, solar, evs, hydrogen, fuel future",7,Energy,Renewable Energy
+94,10,"bitcoin, scale bitcoin, actually speed, side coin, large scale",2,Energy,Cryptocurrency
+95,14,"nuclear, energy, fusion, reactors, nuclear energy",10,Energy,Nuclear Energy
+96,15,"find signs, physicists find, yale physicists, crystal, signs time",1,Energy,Science Fiction
+97,20,"coronavirus second, second wave, coming understand, understand prepare, wave is",1,Energy,Covid Research
+98,-1,"society, russell brand, proves emdrive, works physics, brand politics",13,video,Miscellaneous
+99,0,"peoples, ai, simulate peoples, unable see, becoming norm",2,video,AI
+100,1,"phonebloks, upgradable, phone, seen phonebloks, totally upgradable",5,video,Technology
+101,3,"kuka, robot, man, machine, timoboll",4,video,"Robots, Jobs and Automation"
+102,4,"venus project, is venus, venus, project, is",1,video,Climate Change
+103,5,"are true, true yet, facts are, buzzfeed facts, buzzfeed",1,video,Reddit
+104,6,"world went, future vegan, says future, went vegetarian, trek says",2,video,Food
+105,10,"bitcoin revolution, hierarchical centralized, recogninze, recogninze current, current monetary",2,video,Cryptocurrency
+106,12,"school senior, senior creates, smart gun, nearly lives, creates smart",1,video,Life Science
+107,14,"power is, is dead, compelling arguments, energy decentralization, future energy",1,video,Nuclear Energy
+108,17,"printing animation, animation, printing, china, guns",1,video,World Politics and Guns
+109,19,"sweden, universal, basic income, basic, income",1,video,Income
+110,22,"mars, responds criticism, criticism concerning, criticism, applicant",1,video,Space Travel
+111,-1,"panopticon, proves human, be modelled, modelled, show better",5,blog,Miscellaneous
+112,3,"all jobs, robots will, don believe, say don, eat all",1,blog,"Robots, Jobs and Automation"
+113,6,"vertical farms, let make, do make, make clear, farms do",1,blog,Food
+114,10,"capitalistic crypto, my, capitalistic, paul, crypto future",1,blog,Cryptocurrency
+115,11,"abandon, top reasons, abandon religion, need abandon, reasons need",1,blog,People
+116,22,"mars, mars one, africa oceania, chosen applicants, americas europe",1,blog,Space Travel
+117,-1,"automation, women, risk, men, us risk",8,Robotics,Miscellaneous
+118,0,"ai, enough scale, scaling, equipped ai, equipped",2,Robotics,AI
+119,3,"robot, robots, jobs, wage, minimum wage",13,Robotics,"Robots, Jobs and Automation"
+120,13,"quantum, classical, fractals, fractal, consciousness",1,Robotics,Science Fiction
+121,16,"sex robots, sex, robots, female sex, toronto star",2,Robotics,Gender
+122,-1,"technology, people, less, polluting, insects",17,Environment,Miscellaneous
+123,2,"trees, cabinets idea, agriculture carbon, speeds excess, mph idea",1,Environment,Society
+124,4,"climate, climate change, change, global, soil",17,Environment,Climate Change
+125,5,"around anywhere, earth largest, largest subreddit, subreddit apply, game earth",1,Environment,Reddit
+126,6,"meat, dairy, planet, are, lab",7,Environment,Food
+127,8,"fuel, solar, cars, lead, tesla",3,Environment,Renewable Energy
+128,14,"nuclear, nuclear power, times much, power, energy",2,Environment,Nuclear Energy
+129,20,"friend, university, friend told, correct place, seeing deaths",2,Environment,Covid Research
+130,21,"truth modern, inconvenient truth, inconvenient, civilization inevitable, inevitable collapse",1,Environment,Life Science
+131,22,"mars plant, spaceship mars, plant damn, stop building, damn trees",1,Environment,Space Travel
+132,-1,"people, self, years, new, shadow",37,Discussion,Miscellaneous
+133,0,"ai, intelligence, smarter, artificial intelligence, tasks",5,Discussion,AI
+134,1,"vr, think, phones, phone, thing",8,Discussion,Technology
+135,2,"world, russia, people, cities, soviet",8,Discussion,Society
+136,3,"asimov, harm, robots, robot, first",1,Discussion,"Robots, Jobs and Automation"
+137,4,"climate, https, https www, www, com",5,Discussion,Climate Change
+138,5,"sub, reddit, posts, https, ideas",11,Discussion,Reddit
+139,6,"meat, filet, daily update, grow cattle, next meat",3,Discussion,Food
+140,7,"musk, elon musk, elon, trump, rico",1,Discussion,Elon and Trump
+141,8,"blah, solar, tesla, blah blah, destroy",2,Discussion,Renewable Energy
+142,9,"car, driving, self driving, vehicles, road",2,Discussion,Self Driving Cars
+143,10,"data, web, government, bitcoin, centralized",2,Discussion,Cryptocurrency
+144,11,"hottest, years left, turns fall, less everything, record even",3,Discussion,People
+145,12,"aging, fasting, cells, stem, life",5,Discussion,Life Science
+146,13,"life, time, ai, one, brain",9,Discussion,Science Fiction
+147,15,"universes, thought, idea parallel, billionth nanometer, enough see",1,Discussion,Science Fiction
+148,17,"china, usa, combined, looking, forward looking",2,Discussion,World Politics and Guns
+149,21,"humanity failing, seriously humanity, failing, seriously, humanity",1,Discussion,Life Science
+150,22,"mars, earth, waste money, co, money",2,Discussion,Space Travel
+151,-1,"fediverse, presage, competition also, networking privacy, linux future",4,Computing,Miscellaneous
+152,0,"clip, https, ai, watching, related",2,Computing,AI
+153,1,"tv, tv channels, channels, apple, vr",8,Computing,Technology
+154,15,"quantum computer, quantum, computer, physicists, hacking bitcoin",5,Computing,Science Fiction
+155,-1,"environmental stimuli, stimuli physics, printed material, responds environmental, physics world",1,Nanotech,Miscellaneous
+156,-1,"work day, sweden shifting, shifting hour, hour work, shifting",1,MISLEADING TITLE,Miscellaneous
+157,7,"rocket race, beats elon, spacex reusable, bezos beats, reusable",1,MISLEADING TITLE,Elon and Trump
+158,-1,"trains, helicopters, teleportation, car, cars",7,Transport,Miscellaneous
+159,7,"elon musk, elon, musk, slam, cold hard",2,Transport,Elon and Trump
+160,8,"hydrogen, tesla, hydrogen cars, auto, fuel",5,Transport,Renewable Energy
+161,9,"self driving, driving, self, car, vehicles",12,Transport,Self Driving Cars
+162,13,"strings, particle, light, atoms, able",1,Transport,Science Fiction
+163,-1,"and, metaverse, its all, metaverse trends, being highly",8,meta,Miscellaneous
+164,3,"discussion aware, top comments, say theory, encourage, encourage informed",1,meta,"Robots, Jobs and Automation"
+165,5,"futurology, sub, posts, subreddits, flairs",5,meta,Reddit
+166,-1,"elon musk, elon, musk, monkey, neuralink brain",9,Biotech,Miscellaneous
+167,0,"affected racial, health care, millions black, people affected, care algorithms",1,Biotech,AI
+168,1,"valley quest, forever benefit, quest live, quest, humanity whole",1,Biotech,Technology
+169,6,"meat, milk, grown meat, lab grown, lab",5,Biotech,Food
+170,12,"aging, older, impossible, theory, population",6,Biotech,Life Science
+171,20,"boston university, strain, university, boston, researchers",1,Biotech,Covid Research
+172,21,"impact humanity, bill gate, negative impact, genetic hybrids, ecosystem",1,Biotech,Life Science
+173,-1,"poverty, elites, global, path, people",11,Economics,Miscellaneous
+174,2,"people, probably, poor, decent, iq",2,Economics,Society
+175,4,"capitalism have, got stomach, have got, requires end, end capitalism",1,Economics,Climate Change
+176,7,"invented bitcoin, now linked, mystery who, linked mystery, who invented",1,Economics,Elon and Trump
+177,10,"bitcoin, digital, stablecoins, is, dollar",10,Economics,Cryptocurrency
+178,17,"happens china, number one, becomes number, china becomes, china",1,Economics,World Politics and Guns
+179,19,"basic income, basic, income, idea birthright, just nice",2,Economics,Income
+180,4,"looming issues, civilisation, think civilisation, issues climate, civilisation survive",1,Rule 2 - Future focus,Climate Change
+181,21,"risk future, says population, population collapse, collapse greatest, greatest risk",1,Rule 2 - Future focus,Life Science
+182,14,"http, lenr, nuclear, cat, energy",1,text - sensational/misleading,Nuclear Energy
+183,-1,"years, could, nasa, drive, warp",57,article,Miscellaneous
+184,0,"intelligence, artificial intelligence, artificial, ai, them",14,article,AI
+185,1,"reality, virtual reality, virtual, less, depressing",6,article,Technology
+186,3,"robots, robot, jobs, take jobs, take",14,article,"Robots, Jobs and Automation"
+187,4,"trump looks, looks disaster, disaster planet, way donald, disaster",1,article,Climate Change
+188,5,"journal, aal, ideas aal, most erudite, new journal",1,article,Reddit
+189,6,"camp, tongues tool, using invisible, sugar foods, sugar",1,article,Food
+190,7,"musk, elon musk, elon, hyperloop, delete humans",3,article,Elon and Trump
+191,8,"solar, tesla, solar car, car, power",9,article,Renewable Energy
+192,9,"car, self driving, driving, self, driving cars",7,article,Self Driving Cars
+193,10,"bitcoin, goes big, bitcoin was, bitcoin destroy, may change",4,article,Cryptocurrency
+194,11,"look, people thought, thought year, here, year",4,article,People
+195,12,"extension is, is kinda, aging software, software bug, kinda dumb",2,article,Life Science
+196,14,"energy, nuclear, net energy, heated peer, report rossi",3,article,Nuclear Energy
+197,15,"quantum, universe, parallel, abacus, notices",4,article,Science Fiction
+198,16,"sex, woman, relationships will, pervert cyber, leap from",2,article,Gender
+199,17,"chinese, china, guns, army, world power",4,article,World Politics and Guns
+200,18,"scientists, philae, comet, philae comet, alien life",4,article,Aliens
+201,19,"basic income, basic, income, universal, universal basic",7,article,Income
+202,20,"possible cure, cure viruses, viruses, cure, possible",1,article,Covid Research
+203,21,"be, could be, longer be, be humans, be problem",1,article,Life Science
+204,22,"mars, mars one, one, just found, one mission",3,article,Space Travel
+205,21,"disappeared, disappeared today, humans disappeared, today, humans",1,image - unsourced,Life Science
+206,20,"rsv, potential tripledemic, meet potential, flu rsv, rsv meet",1,Medicine,Covid Research
+207,14,"released energy, first fuel, fusion experiment, energy absorbed, breakthrough first",1,misleading title,Nuclear Energy
+208,20,"found cure, hiv, temple, cure hiv, temple university",1,misleading title,Covid Research
+209,-1,"supposed replacing, couples biological, dogfight, dogfight gets, destroyed plane",2,article - sensational title,Miscellaneous
