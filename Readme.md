@@ -25,7 +25,11 @@ I made use of the nltk and re python libraries to tokenize and remove the common
 The cleaned data was fed into the topic model for categorization and topic discovery. The python package Bertopic was used for categorizing the collection into topics. The advantage of using this topic model is that it takes context into account. The number of topics was set as ‘auto’. 
 The fine-tuned model discovered a total of 23 topics and categories. I also performed dynamic topic modelling to analyse the spread of computationally-created categories over time as shown in Fig 1.  
 
-![Alt text](figures/dynamic_tm.jpg?raw=true "Dynamic Topic Modelling Results of Top Controversial Posts on r/Futurology")
+
+!["Dynamic Topic Modelling Results of Top Controversial Posts on r/Futurology"](https://github.com/aGirlCanCode/INFO-2O2-Final-Project/blob/master/figures/dynamic_tm.png)
+
+                                Fig 1: Dynamic Topic Modelling Results of Top Controversial Posts on r/Futurology
+                                
 
 
 **QUALITATIVE ANALYSIS**
@@ -36,14 +40,19 @@ The topic model discovered a total of 23 topics and the detailed output can be f
 
 **Qualitative Analysis of Reddit Flairs with Individually-named Categories**
 
-A) Reddit flairs
+*A) Reddit flairs*
 
 I analyzed the different tagged categories (flairs) marked by Reddit. The flair_text field is one of the resources of the platform that supports filtering interaction. My collection had a total of 35 unique categories with top 20 categories (based on the frequency of occurrence in our collection) shown in Fig 2. Please note that link_flairs are a relatively new concept for Reddit and there were quite a few posts with missing link_flair fields. Such posts were marked with ‘unknown’ tag by me.
 
-![Alt text](figures/top_flairs.jpg?raw=true "Top 20 Reddit Tagged ‘flair_text’")
 
 
-B) Individually Named Categories
+!["Top 20 Reddit Tagged ‘flair_text’"](https://github.com/aGirlCanCode/INFO-2O2-Final-Project/blob/master/figures/top_flairs.png)
+
+                                                    Fig. 2: Top 20 Reddit Tagged ‘flair_text’
+                                                    
+
+
+*B) Individually Named Categories*
 
 Based on the terms in each topic, I formed a list of 23 categories independent of the Reddit flairs. Using the fine-tuned topic model, I scored each post in the collection into a particular category as discovered by the topic model. Each topic number was assigned a label by me and these labels were in turn used for every post.  These categories were - 
 
@@ -51,10 +60,15 @@ AI',  'Technology', 'Society', 'Robots, Jobs and Automation', 'Climate Change', 
 
 Fig. 3 shows the distribution of computationally-created categories with respect to the Reddit flairs. The y-axis represents the Reddit Flairs while the coloured labels represent the computationally-created categories or the topics discovered by the model. By default, each topic is represented by the model with the top terms in the topic. 
 
-![Alt text](figures/topics_per_flair.jpg?raw=true "Topics per Reddit Flair Text")
 
 
-C) Comparison of Reddit Flairs with Individually-Named Categories 
+!["Topics per Reddit Flair Text"](https://github.com/aGirlCanCode/INFO-2O2-Final-Project/blob/master/figures/topics_per_flair.png)
+
+                                                    Fig 3: Topics per Reddit Flair Text
+                                                    
+
+
+*C) Comparison of Reddit Flairs with Individually-Named Categories* 
 
 Using Fig. 3, we can see that there is a decent overlap between the Reddit created flairs and the categories discovered by my topic model with the exception of certain flairs like - ‘image’, ‘video’, and ‘text’. This kind of categorization boils down to the information need of the channel which not only categorizes the data based on content but also on the data type. This may be useful to the platform for further analysis of only image posts or only text posts. Interestingly, there were quite a few ‘other’ flairs by the platform that were labeled well by the topic model I trained. A direct comparison of the flairs and the labels I created can be found in the file TopicsPerFlair.txt. The information need of these flairs is solely to organize the posts into categories for ease of navigation by the user. Since, it is difficult to maintain a large number of these categories - the cardinality is expected to be low. Surprisingly, even 35 categories is a huge number for any platform. It will be interesting to see how these evolve over time and if new theme posts will be included in existing categories or grouped under ‘other’. [ORGANIZING SYSTEM, CATEGORIES]. The supported interactions included filtering posts based on these marked link_flairs or categories. 
 
