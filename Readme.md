@@ -28,7 +28,7 @@ The fine-tuned model discovered a total of 23 topics and categories. I also perf
 
 !["Dynamic Topic Modelling Results of Top Controversial Posts on r/Futurology"](https://github.com/aGirlCanCode/INFO-2O2-Final-Project/blob/master/figures/dynamic_tm.png)
 
-                                Fig 1: Dynamic Topic Modelling Results of Top Controversial Posts on r/Futurology
+                         Fig 1: Dynamic Topic Modelling Results of Top Controversial Posts on r/Futurology
                                 
 
 
@@ -48,7 +48,7 @@ I analyzed the different tagged categories (flairs) marked by Reddit. The flair_
 
 !["Top 20 Reddit Tagged ‘flair_text’"](https://github.com/aGirlCanCode/INFO-2O2-Final-Project/blob/master/figures/top_flairs.png)
 
-                                                    Fig. 2: Top 20 Reddit Tagged ‘flair_text’
+                                        Fig. 2: Top 20 Reddit Tagged ‘flair_text’
                                                     
 
 
@@ -64,7 +64,7 @@ Fig. 3 shows the distribution of computationally-created categories with respect
 
 !["Topics per Reddit Flair Text"](https://github.com/aGirlCanCode/INFO-2O2-Final-Project/blob/master/figures/topics_per_flair.png)
 
-                                                    Fig 3: Topics per Reddit Flair Text
+                                        Fig 3: Topics per Reddit Flair Text
                                                     
 
 
